@@ -5,7 +5,7 @@ Compile
 ```
 # cd to OpenWrt source path
 # Clone this repo
-git clone -b master --single-branch https://github.com/DragonFree/openwrt-fullconenat.git package/fullconena
+git clone -b master --single-branch https://github.com/DragonFree/openwrt-fullconenat.git package/fullconenat
 # Select Network -> Firewall -> iptables-mod-fullconenat
 make menuconfig
 # Compile
